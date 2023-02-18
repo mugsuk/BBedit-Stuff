@@ -14,6 +14,8 @@ If the preview filter doesn't work, you may need to open the terminal, navigate 
 
 # Use
 
+In the scripts the path to your .bib file must be added: replace "/your.bib file" with "path_to_your_file.bib"
+
 To execute the scripts, open the Scripts Palette (Window: Palettes: Scripts) and select the desired output format. Keyboard shortcuts can be assigned from the Scripts Palette.
 
 The scripts assume that your file is saved. Any error reports will be opened in a new text document.
